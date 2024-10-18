@@ -6,3 +6,14 @@
 
 ## This is USM
 ![Image of USM](https://icert.usm.my/images/dtsp2.jpg)
+
+``` c++
+#include <iostream>
+using namespace std;
+
+int main(){
+  cout << "Hello World!";
+  return 0;
+}
+
+```
