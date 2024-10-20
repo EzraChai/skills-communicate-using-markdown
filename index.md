@@ -17,3 +17,8 @@ int main(){
 }
 
 ```
+
+
+- [x] Make a list
+- [x] True
+- [ ] False
